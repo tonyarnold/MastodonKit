@@ -2,5 +2,4 @@
 /.build
 /.idea
 /Packages
-/*.xcodeproj
-
+xcuserdata
