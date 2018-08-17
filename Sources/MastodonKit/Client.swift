@@ -9,7 +9,7 @@
 import Foundation
 
 public struct Client: ClientType {
-    let baseURL: String
+    public let baseURL: String
     let session: URLSession
     public var accessToken: String?
 
